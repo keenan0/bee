@@ -13,11 +13,11 @@
 
 ![5-19-2024 (17-08-59)](https://github.com/keenan0/bee/assets/64156179/995fa51c-3c71-4c62-8182-2cfefc2d4850)
 
+### Collecting the resources
 ![5-19-2024 (17-12-39)](https://github.com/keenan0/bee/assets/64156179/fba8b26a-a354-4ee1-a590-7afdcf83186a)
 
 ## The goal is to keep collecting pollen and nectar to return it to the beehive
-![5-19-2024 (17-12-39)](https://github.com/keenan0/bee/assets/64156179/7e08d0ff-845d-4730-a352-7dfc3dd5d417)
-
+![5-19-2024 (17-14-38)](https://github.com/keenan0/bee/assets/64156179/3dce0637-996c-43e1-80c4-cdd0ea835100)
 
 ### The beehive
 * Coming soon 
