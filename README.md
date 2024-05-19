@@ -13,10 +13,12 @@
 
 ### Collect Zone
 * It is represented by a white circle, thus making it able to change color depending on the plant it is attached to.
+
 ![collect_zone](https://github.com/keenan0/bee/assets/64156179/88d4ef7d-177d-4a45-b8e6-5114b3f20812)
 
 ### Plant GUI
 * Each plant will have two progress bars that will fill up accordingly.
+
 ![5-19-2024 (17-08-59)](https://github.com/keenan0/bee/assets/64156179/995fa51c-3c71-4c62-8182-2cfefc2d4850)
 
 ### Collecting the resources
